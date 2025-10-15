@@ -1,0 +1,49 @@
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe.config
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.pdb
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.AssemblyReference.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.MainPage.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Properties.Resources.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.GenerateResource.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.CoreCompileInputs.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.exe
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.pdb
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.ManualPage.resources
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe.config
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.pdb
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.AssemblyReference.cache
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.MainPage.resources
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.ManualPage.resources
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Properties.Resources.resources
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.GenerateResource.cache
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.CoreCompileInputs.cache
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.exe
+C:\Users\Faree\Desktop\CleanMarine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.pdb
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe.config
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.pdb
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.AssemblyReference.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Properties.Resources.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.GenerateResource.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.CoreCompileInputs.cache
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.exe
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.pdb
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.CtrlManualMode.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.FrmManualPage.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.FrmAutoPage.resources
+d:\Users\SC_PC\Desktop\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Cleanmarine.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe.config
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.exe
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\bin\Debug\CleanMarine GUI.pdb
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.AssemblyReference.cache
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.CtrlManualMode.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.FrmAutoPage.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Cleanmarine.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.FrmManualPage.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine_GUI.Properties.Resources.resources
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.GenerateResource.cache
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.csproj.CoreCompileInputs.cache
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.exe
+D:\Users\senac\Desktop\me\clean marine\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\CleanMarine GUI\obj\Debug\CleanMarine GUI.pdb
